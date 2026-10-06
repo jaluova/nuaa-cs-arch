@@ -1,3 +1,7 @@
+> **资料已迁移**：[NUAA 课程笔记 · 计算机组成原理](https://github.com/jaluova/nuaa-course-notes/tree/main/computer-architecture)。
+>
+> 后续更新统一在新仓库维护。本仓库保留原资料与提交历史。
+
 # nuaa-cs-arch
 
 计算机组成原理课程资料（2026 春），陈丹老师授课。
